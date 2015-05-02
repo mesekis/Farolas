@@ -172,6 +172,7 @@ public class Farolas extends JFrame implements ActionListener{
         grafica1.setBounds(300,100,1000,700);
         grafica1.setVisible(true);
         grafica1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        JOptionPane.showMessageDialog(null,"Bienvenido al programa de control de farolas");
 
 	}
 
